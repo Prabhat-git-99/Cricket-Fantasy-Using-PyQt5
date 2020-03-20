@@ -1,1 +1,1 @@
-# CricketFantasyPyQt5
+# Cricket Fantasy Using PyQt5
